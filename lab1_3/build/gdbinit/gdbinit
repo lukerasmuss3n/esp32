@@ -1,0 +1,2 @@
+source /home/luk3/esp/blink/build/gdbinit/symbols
+source /home/luk3/esp/blink/build/gdbinit/connect

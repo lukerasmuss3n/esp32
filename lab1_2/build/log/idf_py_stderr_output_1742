@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B /home/luk3/esp/hello_world/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/luk3/.espressif/python_env/idf6.1_py3.12_env/bin/python -DESP_PLATFORM=1 -DIDF_TARGET=esp32c3 -DCCACHE_ENABLE=False /home/luk3/esp/hello_world
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 
